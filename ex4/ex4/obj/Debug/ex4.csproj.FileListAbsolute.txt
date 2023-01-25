@@ -1,0 +1,8 @@
+D:\WMS\Xampp_Autolog\htdocs\Target\ex4\ex4\bin\Debug\ex4.exe.config
+D:\WMS\Xampp_Autolog\htdocs\Target\ex4\ex4\bin\Debug\ex4.exe
+D:\WMS\Xampp_Autolog\htdocs\Target\ex4\ex4\bin\Debug\ex4.pdb
+D:\WMS\Xampp_Autolog\htdocs\Target\ex4\ex4\obj\Debug\ex4.csproj.AssemblyReference.cache
+D:\WMS\Xampp_Autolog\htdocs\Target\ex4\ex4\obj\Debug\ex4.csproj.SuggestedBindingRedirects.cache
+D:\WMS\Xampp_Autolog\htdocs\Target\ex4\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
+D:\WMS\Xampp_Autolog\htdocs\Target\ex4\ex4\obj\Debug\ex4.exe
+D:\WMS\Xampp_Autolog\htdocs\Target\ex4\ex4\obj\Debug\ex4.pdb

@@ -1,0 +1,11 @@
+D:\WMS\Xampp_Autolog\htdocs\Target\ex3\ex3\bin\Debug\ex3.exe.config
+D:\WMS\Xampp_Autolog\htdocs\Target\ex3\ex3\bin\Debug\ex3.exe
+D:\WMS\Xampp_Autolog\htdocs\Target\ex3\ex3\bin\Debug\ex3.pdb
+D:\WMS\Xampp_Autolog\htdocs\Target\ex3\ex3\bin\Debug\Newtonsoft.Json.dll
+D:\WMS\Xampp_Autolog\htdocs\Target\ex3\ex3\bin\Debug\Newtonsoft.Json.xml
+D:\WMS\Xampp_Autolog\htdocs\Target\ex3\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+D:\WMS\Xampp_Autolog\htdocs\Target\ex3\ex3\obj\Debug\ex3.csproj.SuggestedBindingRedirects.cache
+D:\WMS\Xampp_Autolog\htdocs\Target\ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+D:\WMS\Xampp_Autolog\htdocs\Target\ex3\ex3\obj\Debug\ex3.csproj.CopyComplete
+D:\WMS\Xampp_Autolog\htdocs\Target\ex3\ex3\obj\Debug\ex3.exe
+D:\WMS\Xampp_Autolog\htdocs\Target\ex3\ex3\obj\Debug\ex3.pdb
